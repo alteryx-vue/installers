@@ -1,2 +1,2 @@
-# installers
-repository for hosting .YXI installers for tools
+# Alteryx Vue tool installers
+Repository for hosting .YXI installers for tools
